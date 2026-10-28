@@ -22,8 +22,6 @@ Soy aprendiz en analisis y desarrollo de software, actualmente me encuentro en m
 <a href="https://github.com/EsneiderTT" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </a>
-
-
 <a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/> 
 </a>
 <a href="https://www.instagram.com/_esneider08/" target="_blank">
