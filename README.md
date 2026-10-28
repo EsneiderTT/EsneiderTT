@@ -18,8 +18,18 @@ Soy aprendiz en analisis y desarrollo de software, actualmente me encuentro en m
 </p>
 
 ### Socials
+<p align="left">
+<a href="https://github.com/EsneiderTT" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+</a>
 
-<p align="left"> <a href="https://www.github.com/esneiderTT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+
+<a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/> 
+</a>
+<a href="https://www.instagram.com/_esneider08/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
+</a>
+</p>
 ### Badges
 
 <b>My GitHub Stats</b>
