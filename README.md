@@ -24,7 +24,7 @@ Soy aprendiz en analisis y desarrollo de software, actualmente me encuentro en m
 </a>
 <a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" height="40" alt="Facebook" title="Facebook"/> 
 </a>
-<a href="https://www.instagram.com/_esneider08/" target="_blank">
+<a href="https://www.instagram.com/__esneider08/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
 </a>
 </p>
