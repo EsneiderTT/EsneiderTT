@@ -7,9 +7,9 @@ Aprendiz en analisis y desarrollo de software
 Soy aprendiz en analisis y desarrollo de software, actualmente me encuentro en mi etapa lectiva en la institucion SENA
 
 * 🌍  I'm based in Garzon-Huila
-* 🖥️  See my portfolio at [Portafolio](http://https://esneidertt.github.io/portafolio/)
+* 🖥️  See my portfolio at [Portafolio](http://esneidertt.github.io/portafolio/)
 * ✉️  You can contact me at [esneidertrujillo054@gmail.com](mailto:esneidertrujillo054@gmail.com)
-* 🚀  I'm currently working on [FastFood](http://https://esneidertt.github.io/tailwind/)
+* 🚀  I'm currently working on [FastFood](http://esneidertt.github.io/tailwind/)
 * 🧠  I'm currently learning TailwindCSS
 * 👥  I'm looking to collaborate on Desarollos web en los cuales pueda poner en practica mis conocimientos o en los cuales pueda adquirir mas conocimientos
 
@@ -19,17 +19,17 @@ Soy aprendiz en analisis y desarrollo de software, actualmente me encuentro en m
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/EsneiderTT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/esneiderTT" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.facebook.com/jhojan.tovar.305001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/EsneiderT"><img src="https://github-readme-stats.vercel.app/api?username=EsneiderT&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="EsneiderT's GitHub stats" /></a>
+<a href="http://www.github.com/esneiderTT"><img src="https://github-readme-stats.vercel.app/api?username=esneiderTT&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="esneiderTT's GitHub stats" /></a>
 
-<a href="http://www.github.com/EsneiderT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EsneiderT&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/esneiderTT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=esneiderTT&stroke=ffffff&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/EsneiderT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsneiderT&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/esneiderTT" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esneiderTT&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/EsneiderTT/tailwind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=EsneiderTT&repo=tailwind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/esneiderTT/tailwind" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=esneiderTT&repo=tailwind&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
